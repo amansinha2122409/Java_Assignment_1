@@ -1,3 +1,4 @@
+//Q9 Check whether input string is anagram of another string
 import java.util.Arrays;
 import java.util.Scanner;
 
