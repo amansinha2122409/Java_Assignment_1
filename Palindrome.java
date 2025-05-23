@@ -1,3 +1,4 @@
+//Q8 Check whether input string is palindrome or not
 import java.util.Scanner;
 
 public class Palindrome 
