@@ -1,3 +1,4 @@
+//Q5 Reverse input string
 import java.util.Scanner;
 
 public class RevStr 
