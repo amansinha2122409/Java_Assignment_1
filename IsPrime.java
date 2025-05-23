@@ -1,3 +1,4 @@
+//Q3 Check whether input number is prime or not
 import java.util.Scanner;
 
 public class IsPrime 
