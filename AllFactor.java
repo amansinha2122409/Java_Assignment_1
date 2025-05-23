@@ -1,3 +1,4 @@
+//Q1Display all factors of input number
 import java.util.Scanner;
 
 public class AllFactor 
