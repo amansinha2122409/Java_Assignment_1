@@ -1,3 +1,4 @@
+//Q2 Display sum of  all natural numbers between given range
 import java.util.Scanner;
 
 public class SumOfNtrlNo 
