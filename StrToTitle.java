@@ -1,3 +1,4 @@
+//Q4 Convert input string into title case
 import java.util.Scanner;
 
 public class StrToTitle 
